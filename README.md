@@ -6,6 +6,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.
 ## ⚠️ Disclaimer
 
 ```
+Repo Ini Telah Di Edit Oleh
 Saya tidak bertanggung jawab atas penyalahgunaan bot ini.
 Bot ini dimaksudkan untuk membantu untuk menyimpan file yang diinginkan yang dapat diakses melalui Link Khusus.
 Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
@@ -28,9 +29,9 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 ### Deploy on Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://risman.vercel.app/file-deploy.html)</br>
 
-**Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
-<a href="https://youtu.be/O2tieQgzYZg">
-  <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
+**Jangan Lupa Join Grup Telegram Untuk Info Lebih Jelas Untuk Deployment**<br>
+<a href="https://t.me/DarksidefcXx">
+  <img src="https://img.shields.io/badge/Join%20to-Group-red?logo=telegram" width="147">
 </a><br>
 
 <details>
@@ -72,12 +73,15 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ## 🏷 Support   
 - Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot 
-- Gabung Group [@SharingUserbot](https://t.me/SharingUserbot) untuk diskusi, pelaporan bug, dan bantuan tentang File-Sharing-Man.
+
+[//]: # (- Gabung Group [@SharingUserbot]&#40;https://t.me/SharingUserbot&#41; untuk diskusi, pelaporan bug, dan bantuan tentang File-Sharing-Man.)
+- Gabung Group [@DarksidefcXx](https://t.me/DarksidefcXx) untuk diskusi, pelaporan bug, dan bantuan tentang File-Sharing-Man.
 
 ## 👨🏻‍💻 Credits
 
 -  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 -  [Risman](https://github.com/mrismanaziz) for [File-Sharing-Man](https://github.com/mrismanaziz/File-Sharing-Man)
+-  [Rendy](https://github.com/rendyoktv/file-sharing-man-edited.git) for [File-Sharing-Man-EditedVersion](https://github.com/rendyoktv/file-sharing-man-edited.git)
 -  Based on [CodeXBotz](https://github.com/CodeXBotz) Repo [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
 
 ## 📑 License
