@@ -6,7 +6,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.
 ## ⚠️ Disclaimer
 
 ```
-Repo Ini Telah Di Edit
+Repo Ini Telah Di Edit Agar bisa dideploy Menggunakan Docker
 Saya tidak bertanggung jawab atas penyalahgunaan bot ini.
 Bot ini dimaksudkan untuk membantu untuk menyimpan file yang diinginkan yang dapat diakses melalui Link Khusus.
 Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
