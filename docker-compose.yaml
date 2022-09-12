@@ -12,7 +12,7 @@ version: '3'
 services:
 
   postgres_db:
-    image: darksidedb:latest
+    image: [YourImageName]
     ports:    # Set up ports exposed for other containers to connect to
       - 5432
     networks:
@@ -26,7 +26,7 @@ services:
     depends_on:
       - postgres_db
     ports:
-      - 9002:9002
+      - [config your ports here]
     networks:
       - app-tier
 

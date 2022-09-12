@@ -1,9 +1,9 @@
 FROM postgres:latest
 
-ENV POSTGRES_PASSWORD=password
+ENV POSTGRES_PASSWORD=yourpassword
 
-ENV POSTGRES_USER=bots
+ENV POSTGRES_USER=yourpostgresusername
 
-ENV POSTGRES_DB=bots
+ENV POSTGRES_DB=yourdatabasename
 
 
