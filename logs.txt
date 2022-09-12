@@ -1,0 +1,22 @@
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: ASUPAN ENAK UNIV
+└ Username: @Asupanenak_univBot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: 𝙳𝙰𝚁𝙺 𝚂𝙸𝙳𝙴 𝚇
+└ Chat ID: -1001548569301
+——
+[INFO] - bot - FORCE_SUB_GROUP detected!
+┌ Title: 𝚂𝚎𝚌𝚛𝚎𝚝𝚡𝚡𝚡
+└ Chat ID: -1001479794562
+——
+[INFO] - bot - CHANNEL_ID Database detected!
+┌ Title: Test1
+└ Chat ID: -1001555147017
+——
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @lahlausokap
+Jika @lahlausokap Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/SharingUserbot
+[INFO] - root - Stop signal received (SIGINT). Exiting...
+[INFO] - bot - Bot stopped.

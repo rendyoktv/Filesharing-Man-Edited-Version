@@ -55,7 +55,7 @@ def fsub_button(client, message):
     if not FORCE_SUB_CHANNEL and FORCE_SUB_GROUP:
         buttons = [
             [
-                InlineKeyboardButton(text="ᴊᴏɪɴ ɢʀᴏᴜᴘ", url=client.invitelink2),
+                InlineKeyboardButton(text="ᴊᴏɪɴ channel", url=client.invitelink2),
             ],
         ]
         try:
@@ -92,14 +92,14 @@ def fsub_button(client, message):
         buttons = [
             [
                 InlineKeyboardButton(text="ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ", url=client.invitelink),
-                InlineKeyboardButton(text="ᴊᴏɪɴ ɢʀᴏᴜᴘ", url=client.invitelink2),
+                InlineKeyboardButton(text="ᴊᴏɪɴ channel", url=client.invitelink2),
             ],
         ]
         try:
             buttons.append(
                 [
                     InlineKeyboardButton(
-                        text="ᴄᴏʙᴀ ʟᴀɢɪ",
+                        text="setelah join kedua channel, click disini",
                         url=f"https://t.me/{client.username}?start={message.command[1]}",
                     )
                 ]
