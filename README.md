@@ -26,6 +26,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 - Tambahkan bot ke Channel ForceSub tambahkan bot sebagai ADMIN
 - Tambahkan bot ke Group ForceSub tambahkan bot sebagai ADMIN
 - Untuk Deploy ke Virtual Private Server jangan lupa Edit configurasi sesuai dengan kebutuhan kalian
+- Jangan lupa Install docker jika ingin deploy menggunakan Docker
 
 ## 🛡 Installation
 ### Deploy on Heroku
