@@ -6,7 +6,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.
 ## ⚠️ Disclaimer
 
 ```
-Repo Ini Telah Di Edit Oleh
+Repo Ini Telah Di Edit
 Saya tidak bertanggung jawab atas penyalahgunaan bot ini.
 Bot ini dimaksudkan untuk membantu untuk menyimpan file yang diinginkan yang dapat diakses melalui Link Khusus.
 Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
@@ -19,11 +19,13 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 - Lebih dari satu Posting dalam Satu Link (batch).
 - Fleksibel FSUB Button bisa 1 button atau 2 button menyesuaikan dengan var yang di isi.
 
+
 ### Setup
 
 - Tambahkan bot ke Channel Database dengan semua izin admin
 - Tambahkan bot ke Channel ForceSub tambahkan bot sebagai ADMIN
 - Tambahkan bot ke Group ForceSub tambahkan bot sebagai ADMIN
+- Untuk Deploy ke Virtual Private Server jangan lupa Edit configurasi sesuai dengan kebutuhan kalian
 
 ## 🛡 Installation
 ### Deploy on Heroku
