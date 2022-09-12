@@ -31,7 +31,12 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 ### Deploy on Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://risman.vercel.app/file-deploy.html)</br>
 
-**Jangan Lupa Join Grup Telegram Untuk Info Lebih Jelas Untuk Deployment**<br>
+**Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
+<a href="https://youtu.be/O2tieQgzYZg">
+<img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
+</a><br>
+
+**Jangan Lupa Join Grup Telegram Kalo mau Ngobrol santai**<br>
 <a href="https://t.me/DarksidefcXx">
   <img src="https://img.shields.io/badge/Join%20to-Group-red?logo=telegram" width="147">
 </a><br>
@@ -77,7 +82,9 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 - Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot 
 
 [//]: # (- Gabung Group [@SharingUserbot]&#40;https://t.me/SharingUserbot&#41; untuk diskusi, pelaporan bug, dan bantuan tentang File-Sharing-Man.)
-- Gabung Group [@DarksidefcXx](https://t.me/DarksidefcXx) untuk diskusi, pelaporan bug, dan bantuan tentang File-Sharing-Man.
+- Gabung Group [@SharingUserbot](https://t.me/SharingUserbot) untuk diskusi, pelaporan bug, dan bantuan tentang File-Sharing-Man.
+- Join Group [@DarksidefcXx](https://t.me/DarksidefcXx) kalo mau ngobrol santai
+
 
 ## 👨🏻‍💻 Credits
 
